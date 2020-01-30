@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1> the world is ending in 2012!</h1>
+<h1> The world is ending in 2012!</h1>
 this is the body
 </body>
 
