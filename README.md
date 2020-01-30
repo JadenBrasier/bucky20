@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title> no head </title>
+<title> No head </title>
 </head>
 
 <body>
